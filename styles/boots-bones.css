@@ -269,6 +269,10 @@
   font-size:1.2em;
 }
 
+.mdin-single--content ul li {
+  list-style: square;
+}
+
 .mdin-single--related--title {
   font-family: "Exo 2", sans-serif;
   font-size:1em;
