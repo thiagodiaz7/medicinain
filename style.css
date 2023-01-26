@@ -387,3 +387,9 @@ ul {
     bottom: 2px;
     right: 5px;
 }
+
+.figcaption {
+    font-size: 15px;
+    opacity: 0.6;
+    text-align: center;
+}
