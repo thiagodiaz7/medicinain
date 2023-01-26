@@ -119,9 +119,19 @@
             <div class="mdin-footer-col">
               <h5>Veja também</h5>
               <ul class="nav flex-column">
-                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://medicina.in/conteudo/alzheimer/alzheimer-como-tratar/" title="Alzheimer e Canabidiol">Canabidiol no tratamento para Alzheimer</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/alzheimer/canabidiol-para-alzheimer-beneficios-e-efeitos-colaterais/" title="Alzheimer e Canabidiol">Canabidiol para Alzheimer</a></li>
                 <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://medicina.in/conteudo/tudo-sobre-cbd/epilepsia-tem-cura/" title="Epilepsia e Canabidiol">Canabidiol para Epilepsia </a></li>
                 <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="https://medicina.in/conteudo/fibromialgia/fibromialgia-tem-cura/" title="Fibromialgia e Canabidiol">Canabidiol para Fibromialgia</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/depressao/cbd-para-depressao-entenda-os-beneficios-e-efeitos-colaterais/" title="Depressão e Canabidiol">Canabidiol para Depressão</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/ansiedade/canabidiol-para-ansiedade-beneficios-e-efeitos-colaterais/" title="Ansiedade e Canabidiol">Canabidiol para Ansiedade</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/tdah/canabidiol-para-tda-e-tdah-beneficios-e-efeitos-colaterais/" title="TDA, TDAH e Canabidiol">Canabidiol para TDA e TDAH</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/autismo/canabidiol-para-autismo-beneficios-e-efeitos-colaterais/" title="Autismo e Canabidiol">Canabidiol para Autismo</a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/parkinson/canabidiol-para-parkinson-beneficios-e-efeitos-colaterais/" title="Parkinson e Canabidiol">Canabidiol para Parkinson </a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/epilepsia/canabidiol-para-epilepsia-beneficios-e-efeitos-colaterais/" title="Epilepsia e Canabidiol">Canabidiol para Epilepsia </a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/insonia/canabidiol-para-insonia-beneficios-e-efeitos-colaterais/" title="Insonia e Canabidiol">Canabidiol para Insonia </a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/fibromialgia/canabidiol-para-fibromialgia-beneficios-e-efeitos-colaterais/" title="Fibromialogia e Canabidiol">Canabidiol para Fibromialgia </a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/artrite/canabidiol-para-artrite-beneficios-e-efeitos-colaterais/" title="Artrite e Canabidiol">Canabidiol para Artrite </a></li>
+                <li class="nav-item mb-2"><a class="nav-link p-0 text-muted" href="http://localhost/medicinain/conteudo/canabidiol/artrose/" title="Artrose e Canabidiol">Canabidiol para Artrose </a></li>
               </ul>
             </div>
         </div>
