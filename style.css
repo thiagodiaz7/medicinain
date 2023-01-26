@@ -271,7 +271,7 @@ License: GNU General Public License
     margin:0;
 }
 .navigation ul li {
-    list-style:none;
+    list-style:square;
     display:inline-block;
 }
 
