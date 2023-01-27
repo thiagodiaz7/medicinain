@@ -387,7 +387,7 @@ ul {
     right: 5px;
 }
 
-.figcaption {
+figcaption {
     font-size: 15px;
     opacity: 0.6;
     text-align: center;
