@@ -30,6 +30,10 @@ License: GNU General Public License
     font-size: 1.2rem;
 }
 
+.mdin-floating-whatsapp-l {
+    right: 10px;
+}
+
 .mdin-spacing {
     height:20px;
 }
