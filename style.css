@@ -271,7 +271,7 @@ License: GNU General Public License
     margin:0;
 }
 .navigation ul li {
-    list-style:none;
+    list-style:square;
     display:inline-block;
 }
 
@@ -349,12 +349,11 @@ License: GNU General Public License
 span {
     font-family: 'Exo 2', sans-serif;
     font-weight: 600;
-    font-size: 20px;
     line-height: 24px;
 }
 
 ul {
-    list-style: none;
+    list-style: square;
 }
 
 .docs {
@@ -386,4 +385,10 @@ ul {
     position: absolute;
     bottom: 2px;
     right: 5px;
+}
+
+figcaption {
+    font-size: 15px;
+    opacity: 0.6;
+    text-align: center;
 }
