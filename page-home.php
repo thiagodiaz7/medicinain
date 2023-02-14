@@ -964,10 +964,6 @@ get_header(); // This fxn gets the header.php file and renders it ?>
 			<div class="col-md-3">
 				<a href="https://medicina.in/agendar" target="_blank" class="btn btn-primary px-4 me-md-2 mdin-btn-primary" id="AgendarFooter">Agendar consulta inicial</a>
 			</div>
-
-			<a href="https://medicinain.com.br/whatsapp" id="btnWhatsapp" class="mdin-floating-whatsapp-l">Fale com a gente</a>
-
-			
 		</div>
 	</div>
 </div>

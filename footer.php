@@ -26,6 +26,8 @@
         </div>
 
       </form>
+
+      <a href="https://medicinain.com.br/whatsapp" id="btnWhatsapp" class="mdin-floating-whatsapp-l">Fale com a gente</a>
        
 
       </div>
