@@ -1460,7 +1460,7 @@ CALCULADORA
   font-weight: 700;
   position: fixed;
   bottom: 83px;
-  left: 10px;
+  right: 10px;
   color:#319535;
   text-decoration: none;
   display:block;
