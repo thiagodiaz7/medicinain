@@ -27,7 +27,7 @@
 
       </form>
 
-      <a href="https://medicinain.com.br/whatsapp" id="btnWhatsapp" class="mdin-floating-whatsapp-l">Fale com a gente</a>
+      
        
 
       </div>
@@ -42,6 +42,8 @@
     <b>IMPORTANTE:</b> Este site não oferece tratamento ou aconselhamento imediato para pessoas em crise suicida. Em caso de crise, ligue para <b>188 (CVV)</b> ou acesse o site <a href="https://www.cvv.org.br" target="_blank">www.cvv.org.br</a>. Em caso de emergência, procure atendimento em um hospital mais próximo. 
   </div>
 </section>
+
+<a href="https://medicinain.com.br/whatsapp" id="btnWhatsapp" class="mdin-floating-whatsapp-l">Fale com a gente</a>
 
 
 <div class="container">
