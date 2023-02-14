@@ -26,6 +26,10 @@ License: GNU General Public License
     padding:1em 3em;
 }
 
+#btnWhatsapp {
+    font-size: 1.5rem;
+}
+
 .mdin-spacing {
     height:20px;
 }
