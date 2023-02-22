@@ -1658,6 +1658,11 @@ h4.mdin-together-box--title {
   font-size: 1.1em!important;
 }
 
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #000!important;
+  text-decoration: underline;
+}
+
 .mdin-atc-card {cursor:pointer}
 
 .page-template-page-comprar-produto header {display:none}
