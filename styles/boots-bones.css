@@ -159,11 +159,16 @@
   opacity:.5;
 }
 
-.mdin-blog-title:hover {
+.mdin-blog-title {
+  font-family: "Exo 2", sans-serif;
+  margin:.5em 0;
   text-decoration: underline;
 }
 
-
+.mdin-blog-title:hover {
+  text-decoration: underline;
+  
+}
 
 .mdin-carousel-control-prev,
 .mdin-carousel-control-next{
