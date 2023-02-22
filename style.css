@@ -28,6 +28,13 @@ License: GNU General Public License
 
 #btnWhatsapp {
     font-size: 1.2rem;
+    position: fixed;
+    left: auto;
+    top: auto;
+    right: 5%;
+    bottom: 10%;
+    display: block;
+    padding: 20px 20px 20px 67px;
 }
 
 .mdin-spacing {

@@ -1454,18 +1454,18 @@ CALCULADORA
 
 .mdin-floating-whatsapp-l {
   background:url('../assets/home/mdin-icon-whatsapp.svg') no-repeat .8em center #C1F5C3;
-  padding: 1em 1.5em 1em 3.7em;
+  padding: 20px 20px 20px 67px;
   border-radius: 200px;
   font-family: "Exo 2", sans-serif;
   font-weight: 700;
   position: fixed;
-  bottom: 83px;
-  right: 10px;
+  top: auto;
+  left: auto;
+  bottom: 10%;
+  right: 3%;
   color:#319535;
   text-decoration: none;
-  display:block;
-  z-index:99999;
-  width: 210px;
+  display: block;
 }
 
 
