@@ -70,9 +70,9 @@
         <div class="mdin-footer-col">
           <h5>Explore</h5>
           <ul class="nav flex-column">
-            <li class="nav-item mb-2"><a href="/conteudo" class="nav-link p-0 text-muted">Blog</a></li>
-            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Para que serve o Canabidiol</a></li>
-            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">CBD é seguro?</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/" class="nav-link p-0 text-muted">Tudo sobre canabidiol</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/tudo-sobre-cbd/canabidiol-para-que-serve-guia-simplificado/" class="nav-link p-0 text-muted">Para que serve o Canabidiol</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/tudo-sobre-cbd/canabidiol-efeitos-colaterais/" class="nav-link p-0 text-muted">Canabidiol Efeitos Colaterais</a></li>
             
           </ul>
         </div>
