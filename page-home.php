@@ -51,9 +51,9 @@ get_header(); // This fxn gets the header.php file and renders it ?>
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="mdin-hero-services service-1">
-						<h4 class="mdin-hero-services--title">Médicos que prescrevem Canabidiol</h4>
+						<h4 class="mdin-hero-services--title">Receita médica 100% digital e online</h4>
 						<p class="mdin-hero-services--lead">
-							Agende uma consulta 100% online com médicos que prescrevem Canabidiol em poucos passos.
+							Encontre médicos que prescrevem canabidiol para uma consulta 100% online, sem sair de casa. 
 						</p>
 					</div>
 					
@@ -61,7 +61,7 @@ get_header(); // This fxn gets the header.php file and renders it ?>
 
 				<div class="col-lg-6">
 					<div class="mdin-hero-services service-2">
-						<h4 class="mdin-hero-services--title">Autorização da Anvisa</h4>
+						<h4 class="mdin-hero-services--title">Autorização da Anvisa em 24h</h4>
 						<p class="mdin-hero-services--lead">
 						Nós te ajudaremos em todo o processo burocrático na Anvisa de forma rápida e facilitada.
 						</p>
@@ -112,7 +112,7 @@ get_header(); // This fxn gets the header.php file and renders it ?>
             <div class="row">
                 <div class="col">
 
-                <h3 class="display-5 fw-bold lh-1 mb-3 mdin-content--title">Lista de médicos que prescrevem canabidiol</h3>
+                <h3 class="display-5 fw-bold lh-1 mb-3 mdin-content--title">Médicos que prescrevem canabidiol, com consultas 100% online</h3>
 
                 <p class="lead mdin-content--lead"> 
                     Aqui você encontra a lista de médicos que prescrevem canabidiol mais bem avaliados e
