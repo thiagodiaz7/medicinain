@@ -107,114 +107,6 @@ get_header(); // This fxn gets the header.php file and renders it ?>
 	</div>
 </div>
 
-<div class="container px-4 py-5" id="extras">
-	<div class="row">
-		<div class="col d-flex align-items-start">
-			<img src="<?php echo get_template_directory_uri(); ?>/assets/extras/mdin-icon-rmd.svg" class="img-fluid" alt="">
-			<div class="mdin-content-extras--item">
-				<h3 class="fw-bold mb-0 mdin-content--subtitle">Acompanhamento do seu tratamento com Canabidiol</h3>
-				<p class="mdin-content--lead">Nossos médicos poderão detalhar todos os benefícios da cannabis medicinal para o seu caso, acompanhando você ao longo de cada passo desse processo antes, durante e após a consulta.</p>
-			</div>
-		</div>
-
-		<div class="col d-flex align-items-start">
-		<img src="<?php echo get_template_directory_uri(); ?>/assets/extras/mdin-icon-hrt.svg" alt="">
-			<div class="mdin-content-extras--item">
-				<h4 class="fw-bold mb-0 mdin-content--subtitle">Acesso facilitado ao óleo de Canabidiol</h4>
-				<p class="mdin-content--lead">Caso seu tratamento possa ser feito com Canabidiol, nossa equipe ajudará você com todos os passos para obter o medicamento adequado de forma prática e simples.</p>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row justify-content-md-center text-center">
-
-	<h6 class="lead mdin-title-midia">Medicina In na mídia</h6>
-
-		<div class="col col-lg-2 mdin-midia-item-1">
-			<a href="https://cannabisinc.blogfolha.uol.com.br/2020/11/27/cresce-a-demanda-de-clinicas-de-cannabis-no-brasil/?loggedpaywall" target="_blank" nofollow title="Cresce a demanda por clínicas de Cannabis no Brasil">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-folha.svg" alt="Cresce a demanda por clínicas de Cannabis no Brasil">
-			</a>
-		</div>
-
-		<div class="col col-lg-2 mdin-midia-item-2">
-			<a href="https://cannalize.com.br/menos-de-1-dos-medicos-prescrevem-cannabis-no-brasil/" target="_blank" nofollow title="Menos de 1% dos médicos prescrevem cannabis no Brasil">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-cannalize.svg" alt="Menos de 1% dos médicos prescrevem cannabis no Brasil">
-			</a>
-		</div>
-
-		<div class="col col-lg-2 mdin-midia-item-3">
-			<a href="https://www.istoedinheiro.com.br/investimento-florescente/" target="_blank" nofollow title="Aprovação de uso medicinal da cannabis no Brasil acende o interesse pelas ações do setor. Mas os especialistas alertam que vai demorar para sentir o efeito no bolso.">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-istoe.svg" alt="Aprovação de uso medicinal da cannabis no Brasil acende o interesse pelas ações do setor. Mas os especialistas alertam que vai demorar para sentir o efeito no bolso.">
-			</a>
-		</div>
-
-		<div class="col col-lg-2 mdin-midia-item-4">
-			<a href="https://delas.ig.com.br/desabafo/2021-08-31/fibromialgia-tratamento-cannabis-medicinal.html" target="_blank" nofollow title="Cannabis medicinal devolveu minha vontade de viver após fibromialgia.">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-ig.svg" alt="Cannabis medicinal devolveu minha vontade de viver após fibromialgia.">
-			</a>
-		</div>
-	</div>
-</div>
-
-<!-- Depoimentos -->
-
-<div class="container px-8 py-5 mdin-testimonials">
-
-	<h3 class="display-6 fw-bold lh-1 mb-3 mdin-content--title text-center">Leia quem confia na Medicina In</h3>
-	
-	<div class="mdin-spacing"></div><div class="mdin-spacing"></div>
-	
-	<div class="row justify-content-md-center">
-		<div class="col-md-4">
-			<div class="mdin-testimonials-card">
-				<div class="mdin-testimonials-card--quote"></div>
-
-				<p class="mdin-testimonials-card--text">
-					A Medicina In me ajudou muito em tudo. Desde o atendimento, até o medicamento chegar em casa. Tive um acompanhamento muito bom e estou bem melhor!
-				</p>
-
-				<div class="mdin-testimonials-card--person">
-					<div class="mdin-testimonials-card--name">Ana Maria</div>
-					<div class="mdin-testimonials-card--span">Dores Crônicas</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-md-4">
-			<div class="mdin-testimonials-card active">
-				<div class="mdin-testimonials-card--quote"></div>
-
-				<p class="mdin-testimonials-card--text">
-				Adorei a consulta, o médico foi super atencioso e me explicou tudo nos detalhes. Encontrei o medicamento com facilidade tudo rapidinho!
-				</p>
-
-				<div class="mdin-testimonials-card--person">
-					<div class="mdin-testimonials-card--name">Maria de Fátima</div>
-					<div class="mdin-testimonials-card--span">Fibromialgia</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-md-4">
-			<div class="mdin-testimonials-card">
-				<div class="mdin-testimonials-card--quote"></div>
-
-				<p class="mdin-testimonials-card--text">
-					Melhorei bem depois que comecei a tomar o CBD, com ajuda do acompanhamento profissional da Medicina In consegui chegar na minha dose eficaz bem rápido e melhorou bastante minha qualidade de vida.
-				</p>
-
-				<div class="mdin-testimonials-card--person">
-					<div class="mdin-testimonials-card--name">Rodrigo Torres</div>
-					<div class="mdin-testimonials-card--span">Ansiedade</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-
 <section class="mdin-lista-medicos">
 		<div class="container">
             <div class="row">
@@ -382,6 +274,112 @@ get_header(); // This fxn gets the header.php file and renders it ?>
         </div>
 </section>
 
+<div class="container px-4 py-5" id="extras">
+	<div class="row">
+		<div class="col d-flex align-items-start">
+			<img src="<?php echo get_template_directory_uri(); ?>/assets/extras/mdin-icon-rmd.svg" class="img-fluid" alt="">
+			<div class="mdin-content-extras--item">
+				<h3 class="fw-bold mb-0 mdin-content--subtitle">Acompanhamento do seu tratamento com Canabidiol</h3>
+				<p class="mdin-content--lead">Nossos médicos poderão detalhar todos os benefícios da cannabis medicinal para o seu caso, acompanhando você ao longo de cada passo desse processo antes, durante e após a consulta.</p>
+			</div>
+		</div>
+
+		<div class="col d-flex align-items-start">
+		<img src="<?php echo get_template_directory_uri(); ?>/assets/extras/mdin-icon-hrt.svg" alt="">
+			<div class="mdin-content-extras--item">
+				<h4 class="fw-bold mb-0 mdin-content--subtitle">Acesso facilitado ao óleo de Canabidiol</h4>
+				<p class="mdin-content--lead">Caso seu tratamento possa ser feito com Canabidiol, nossa equipe ajudará você com todos os passos para obter o medicamento adequado de forma prática e simples.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row justify-content-md-center text-center">
+
+	<h6 class="lead mdin-title-midia">Medicina In na mídia</h6>
+
+		<div class="col col-lg-2 mdin-midia-item-1">
+			<a href="https://cannabisinc.blogfolha.uol.com.br/2020/11/27/cresce-a-demanda-de-clinicas-de-cannabis-no-brasil/?loggedpaywall" target="_blank" nofollow title="Cresce a demanda por clínicas de Cannabis no Brasil">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-folha.svg" alt="Cresce a demanda por clínicas de Cannabis no Brasil">
+			</a>
+		</div>
+
+		<div class="col col-lg-2 mdin-midia-item-2">
+			<a href="https://cannalize.com.br/menos-de-1-dos-medicos-prescrevem-cannabis-no-brasil/" target="_blank" nofollow title="Menos de 1% dos médicos prescrevem cannabis no Brasil">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-cannalize.svg" alt="Menos de 1% dos médicos prescrevem cannabis no Brasil">
+			</a>
+		</div>
+
+		<div class="col col-lg-2 mdin-midia-item-3">
+			<a href="https://www.istoedinheiro.com.br/investimento-florescente/" target="_blank" nofollow title="Aprovação de uso medicinal da cannabis no Brasil acende o interesse pelas ações do setor. Mas os especialistas alertam que vai demorar para sentir o efeito no bolso.">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-istoe.svg" alt="Aprovação de uso medicinal da cannabis no Brasil acende o interesse pelas ações do setor. Mas os especialistas alertam que vai demorar para sentir o efeito no bolso.">
+			</a>
+		</div>
+
+		<div class="col col-lg-2 mdin-midia-item-4">
+			<a href="https://delas.ig.com.br/desabafo/2021-08-31/fibromialgia-tratamento-cannabis-medicinal.html" target="_blank" nofollow title="Cannabis medicinal devolveu minha vontade de viver após fibromialgia.">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/press/medicinain-ig.svg" alt="Cannabis medicinal devolveu minha vontade de viver após fibromialgia.">
+			</a>
+		</div>
+	</div>
+</div>
+
+<!-- Depoimentos -->
+
+<div class="container px-8 py-5 mdin-testimonials">
+
+	<h3 class="display-6 fw-bold lh-1 mb-3 mdin-content--title text-center">Leia quem confia na Medicina In</h3>
+	
+	<div class="mdin-spacing"></div><div class="mdin-spacing"></div>
+	
+	<div class="row justify-content-md-center">
+		<div class="col-md-4">
+			<div class="mdin-testimonials-card">
+				<div class="mdin-testimonials-card--quote"></div>
+
+				<p class="mdin-testimonials-card--text">
+					A Medicina In me ajudou muito em tudo. Desde o atendimento, até o medicamento chegar em casa. Tive um acompanhamento muito bom e estou bem melhor!
+				</p>
+
+				<div class="mdin-testimonials-card--person">
+					<div class="mdin-testimonials-card--name">Ana Maria</div>
+					<div class="mdin-testimonials-card--span">Dores Crônicas</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="mdin-testimonials-card active">
+				<div class="mdin-testimonials-card--quote"></div>
+
+				<p class="mdin-testimonials-card--text">
+				Adorei a consulta, o médico foi super atencioso e me explicou tudo nos detalhes. Encontrei o medicamento com facilidade tudo rapidinho!
+				</p>
+
+				<div class="mdin-testimonials-card--person">
+					<div class="mdin-testimonials-card--name">Maria de Fátima</div>
+					<div class="mdin-testimonials-card--span">Fibromialgia</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="mdin-testimonials-card">
+				<div class="mdin-testimonials-card--quote"></div>
+
+				<p class="mdin-testimonials-card--text">
+					Melhorei bem depois que comecei a tomar o CBD, com ajuda do acompanhamento profissional da Medicina In consegui chegar na minha dose eficaz bem rápido e melhorou bastante minha qualidade de vida.
+				</p>
+
+				<div class="mdin-testimonials-card--person">
+					<div class="mdin-testimonials-card--name">Rodrigo Torres</div>
+					<div class="mdin-testimonials-card--span">Ansiedade</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 <section class="mdin-about-sec">
 	<div class="container col-xxl-8 px-4 py-5 mdin-about" id="sobre">
