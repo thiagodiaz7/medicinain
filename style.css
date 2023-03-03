@@ -32,7 +32,7 @@ License: GNU General Public License
     left: auto;
     top: auto;
     right: 5%;
-    bottom: 3%;
+    bottom: 5%;
     display: block;
     padding: 20px 20px 20px 67px;
 }
@@ -98,6 +98,10 @@ License: GNU General Public License
     margin: .3em 0 ;
     margin-bottom:0!important;
  
+}
+
+.blog-destaque--title:hover {
+    text-decoration: underline;
 }
 
 .blog-casos-list-item-title a {

@@ -274,6 +274,40 @@ fbq('track', 'PageView');
 		</div>
 	</nav>
 
+  <div class="mdin-floating-bar d-sm-none d-md-block" style="display:none">
+  <div class="container">
+    <div class="d-flex row">
+      <div class="mdin-floating-bar--text col">
+
+        <div class="mdin-phone-number-wrap">
+            <div class="mdin-phone-number-title">Tire suas dúvidas</div>
+            <div class="mdin-phone-number-text">(11) 4040-2118</div>
+        </div>
+        
+      </div>
+      <div class="mdin-floating-bar--attending col">
+
+        <div class="mdin-business-hour-wrap">
+          <div class="mdin-business-hour-title">Horários de atendimento</div>
+          <div class="mdin-business-hour-text">Segunda à Sexta das 09:00 às 18:00</div>
+        </div>
+
+      </div>
+      <div class="mdin-floating-bar--hours col">
+
+        <div class="mdin-mailing-wrap">
+          <div class="mdin-mailing-title">E-mail</div>
+          <div class="mdin-mailing-text">falecom@medicina.in</div>
+        </div>
+
+      </div>
+      <!-- <div class="mdin-floating-bar--phone">
+        Tire suas dúvidas
+      </div> -->
+    </div>
+  </div>
+</div>
+
 </header>
 
 

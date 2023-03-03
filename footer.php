@@ -70,9 +70,9 @@
         <div class="mdin-footer-col">
           <h5>Explore</h5>
           <ul class="nav flex-column">
-            <li class="nav-item mb-2"><a href="/conteudo" class="nav-link p-0 text-muted">Blog</a></li>
-            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Para que serve o Canabidiol</a></li>
-            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">CBD é seguro?</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/" class="nav-link p-0 text-muted">Tudo sobre canabidiol</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/tudo-sobre-cbd/canabidiol-para-que-serve-guia-simplificado/" class="nav-link p-0 text-muted">Para que serve o Canabidiol</a></li>
+            <li class="nav-item mb-2"><a href="https://medicina.in/conteudo/tudo-sobre-cbd/canabidiol-efeitos-colaterais/" class="nav-link p-0 text-muted">Canabidiol Efeitos Colaterais</a></li>
             
           </ul>
         </div>
@@ -191,39 +191,7 @@
 // Move it if you like, but keep it around.
 ?>
 
-<div class="mdin-floating-bar d-sm-none d-md-block" style="display:none">
-  <div class="container">
-    <div class="d-flex row">
-      <div class="mdin-floating-bar--text col">
 
-        <div class="mdin-phone-number-wrap">
-            <div class="mdin-phone-number-title">Tire suas dúvidas</div>
-            <div class="mdin-phone-number-text">(11) 4040-2118</div>
-        </div>
-        
-      </div>
-      <div class="mdin-floating-bar--attending col">
-
-        <div class="mdin-business-hour-wrap">
-          <div class="mdin-business-hour-title">Horários de atendimento</div>
-          <div class="mdin-business-hour-text">Segunda à Sexta das 09:00 às 18:00</div>
-        </div>
-
-      </div>
-      <div class="mdin-floating-bar--hours col">
-
-        <div class="mdin-mailing-wrap">
-          <div class="mdin-mailing-title">E-mail</div>
-          <div class="mdin-mailing-text">falecom@medicina.in</div>
-        </div>
-
-      </div>
-      <!-- <div class="mdin-floating-bar--phone">
-        Tire suas dúvidas
-      </div> -->
-    </div>
-  </div>
-</div>
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
