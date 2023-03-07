@@ -139,7 +139,7 @@ get_header(); // This fxn gets the header.php file and renders it ?>
                         <div class="col-sm-2 d-none d-md-block">
                             <div class="doc-avatar">
                                 <div class="doc-verified"><img src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/verified.svg" alt=""></div>
-                                <img class="img-fluid doc-img" src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/doc-avatar.png" alt="">
+                                <img class="img-fluid doc-img" src="http://medicina.in/wp-content/uploads/2023/03/dr-thiago-braga-1.png" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -159,6 +159,33 @@ get_header(); // This fxn gets the header.php file and renders it ?>
                         </div>
                         <div class="col-sm-3">
                             <p class="doc-text">CRM 183406</p>
+                        </div>
+                    </li>
+
+					<li class="docs row">
+                        <div class="col-sm-2 d-none d-md-block">
+                            <div class="doc-avatar">
+                                <div class="doc-verified"><img src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/verified.svg" alt=""></div>
+                                <img class="img-fluid doc-img" src="http://medicina.in/wp-content/uploads/2023/03/Dra-Evelin-Schueteze-Rocha-1.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <h5 class="doc-header">Dra Evelin Schueteze Rocha</h5>
+                            <p class="doc-text">Medicina Endocanabinoide e Geriatra</p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <span class="star-wrapper">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/stars.svg" alt="">
+                                        <span>9.9</span>
+                                    </span>
+                                </div>
+                                <div class="col-sm-6">
+                                    <a class="doc-link" href="https://medicina.in/corpo-medico/thiago-braga" title="Lista de médicos que prescrevem canabidiol: Thiago Braga">Ver avaliações</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <p class="doc-text">CRM 163979</p>
                         </div>
                     </li>
 
@@ -193,7 +220,7 @@ get_header(); // This fxn gets the header.php file and renders it ?>
                         <div class="col-sm-2 d-none d-md-block">
                             <div class="doc-avatar">
                                 <div class="doc-verified"><img src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/verified.svg" alt=""></div>
-                                <img class="img-fluid doc-img" src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/doc-avatar.png" alt="">
+                                <img class="img-fluid doc-img" src="http://medicina.in/wp-content/uploads/2023/03/Dra-Ariane-Lopes-1.png" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -247,7 +274,7 @@ get_header(); // This fxn gets the header.php file and renders it ?>
                         <div class="col-sm-2 d-none d-md-block">
                             <div class="doc-avatar">
                                 <div class="doc-verified"><img src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/verified.svg" alt=""></div>
-                                <img class="img-fluid doc-img" src="<?php echo get_template_directory_uri(); ?>/assets/lista-medicos/doc-avatar.png" alt="">
+                                <img class="img-fluid doc-img" src="http://medicina.in/wp-content/uploads/2023/03/Dr-Andre-Domenici-1.png" alt="">
                             </div>
                         </div>
                         <div class="col-sm-6">
