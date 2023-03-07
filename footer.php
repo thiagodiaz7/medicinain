@@ -254,7 +254,8 @@
   vgo('process');
 </script>
 
-<script type="text/javascript"  src="https://apiv2.popupsmart.com/api/Bundle/384482" async></script>
+
+
 <script>
 
   var parent = document.querySelector(".mdin-calculadora--button");
@@ -341,6 +342,6 @@
 
 
 
-
+<script src="https://cdn.popupsmart.com/bundle.js" data-id="10370" async defer></script>
 </body>
 </html>

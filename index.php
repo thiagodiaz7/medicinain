@@ -59,7 +59,6 @@ get_header(); // This fxn gets the header.php file and renders it ?>
 
 
 
-				<script src="https://cdn.popupsmart.com/bundle.js" data-id="10377" async defer></script>
 				
 				
 				<div class="col-md-4">
